@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2025-04-13
+
+- Further slight increase in specificity by focusing tuesdays on horizontal
+  pulling and fridays on vertical pulling.
+- Added rows back into the schedule as a weighted horizontal pulling exercise.
+
 ## 2025-04-09
 
 - Slightly increased daily specificity by focusing mondays on horizontal

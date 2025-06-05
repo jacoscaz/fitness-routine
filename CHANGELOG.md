@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2025-06-05
+
+- Greater focus on kettlebells for overhead lifts, complementing sandbags.
+- Slight tweak to grouping on thursdays (vertical pushing) to enforce the
+  bodyweight component (handstand push-ups).
+
 ## 2025-04-13
 
 - Further slight increase in specificity by focusing tuesdays on horizontal

@@ -1,6 +1,14 @@
 
 # Changelog
 
+## 2025-09-29
+
+- Renamed section "Shoulder health" to "Joint health".
+- Added squat calf raises as a joint health movement.
+- Added notes on knees over toes and driving movements through hands and feet.
+- Added more links to video exercise demonstrations.
+- Compacted bottom half of the document by reordering sections.
+
 ## 2025-06-05
 
 - Greater focus on kettlebells for overhead lifts, complementing sandbags.
@@ -27,7 +35,7 @@
 
 - Replaced weekly cleans (on tuesday and friday) with swings (on tuesday),
   RDLs and good mornings (on friday), addressing a lack of focus on hip
-  hinging. 
+  hinging.
 - Added the kettlebell floor press to monday's horizontal pressing,
   complementing the push-up by introducing control of unstable, external
   objects in the horizontal plane.

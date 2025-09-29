@@ -18,7 +18,7 @@ fitness professionals before making changes to your fitness regime.
 ## The routine
 
 The routine lives as a printer-friendly, evolving [HTML document][r5].
-Interested in the source? [Here][r4]! 
+Interested in the source? [Here][r4]!
 
 [r4]: ./fitness-routine.html
 [r5]: http://htmlpreview.github.io/?https://github.com/jacoscaz/fitness-routine/blob/main/fitness-routine.html
@@ -37,7 +37,7 @@ Interested in the source? [Here][r4]!
    but aims to strike a _functional_ compromise between each of these that can
    easily transfer to the trainee's daily life.
 3. **Sustainable**: this routine is designed to minimize daily volume while
-   maximizing weekly variety to lessen its impact on joints, ligaments and 
+   maximizing weekly variety to lessen its impact on joints, ligaments and
    allow for shorter recovery times.
 4. **Portable**: this routine is designed to be relatively portable, minimizing
    the amount of required equipment and optimizing for equipment easy to carry
@@ -47,7 +47,7 @@ Interested in the source? [Here][r4]!
    will be able to move. This routine is also designed to minimize the risk of
    injury and/or damage inherent in handling heavy weights, selecting movement
    variations that can be easily aborted.
-   
+
 [g1]: https://journal.crossfit.com/article/what-is-fitness
 [g2]: https://en.wikipedia.org/wiki/One-repetition_maximum
 [g3]: https://en.wikipedia.org/wiki/Do_it_yourself
@@ -56,12 +56,11 @@ Interested in the source? [Here][r4]!
 
 At minimum, this routine requires the following pieces of equipment:
 
-- **Sandbags**. Specifically, [boulder-style][e4] sandbags, big and small.
-  Instead of sand, consider filling with [pea gravel][e5]. Additionally and
-  optionally, [log-style][e6] sandbags with handles.
+- **Sandbags**. Specifically, [boulder-style][e4] and [log-style][e6] sandbags,
+  big and small. Instead of sand, consider filling with [pea gravel][e5].
 - A **pull-up bar**. Prefer freestanding or wall-mounted/ceiling-mounted bars
   to doorway bars. Preferably high enough to strap rings on it. Alternatively,
-  a sturdy branch can suffice. Alternatively, rings can suffice. 
+  a sturdy branch can suffice. Alternatively, rings can suffice.
 - A **dip station** or any other kind of dipping setup. If nothing else is
   available, a set of high-back chairs can suffice. Alternatively, rings can
   suffice.
@@ -71,7 +70,7 @@ At minimum, this routine requires the following pieces of equipment:
 > Needless to say, most things will break when impacted by a kettlebell
 > unintentionally propelled into the air due to grip failure. **Be careful**!
 
-### Rings 
+### Rings
 
 A **set of gymnastic rings** can be an invaluable tool, both as a gateway to
 (much) harder movements and variations but also as an incredibly portable,

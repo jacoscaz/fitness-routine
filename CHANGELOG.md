@@ -1,6 +1,18 @@
 
 # Changelog
 
+## 2026-05-26
+
+- Moved mobility / joint health and core to, respectively, the warmup 
+  and cooldown phases of each strength workout. Helps with consistency
+  and with reducing the risk of injury. 
+- Added sit-up w/ overhead press (joint health), dynamic tuck FL 
+  pull-up (strenght, tuesdays), more example of rotational swings
+  (strenght, tuesdays), pike compression (core).
+- Dropped sit-up and crunch as core exercises as I'm finding them of
+  very limited value compared to other core movements and the bracing
+  that naturally occurs during strength movements.
+  
 ## 2025-09-29
 
 - Renamed section "Shoulder health" to "Joint health".

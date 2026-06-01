@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2026-06-01
+
+- Further reduced and focused main strength work by focusing on two
+  movements only, one for the upper body and one for the lower body, 
+  making more space for playing around with joint health and mobility
+  exercises.
+
 ## 2026-05-26
 
 - Moved mobility / joint health and core to, respectively, the warmup 

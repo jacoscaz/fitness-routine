@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2026-11-23
+
+- Added breathing guidance.
+
 ## 2026-06-01
 
 - Further reduced and focused main strength work by focusing on two

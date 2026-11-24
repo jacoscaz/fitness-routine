@@ -1,6 +1,18 @@
 
 # Changelog
 
+## 2026-11-24
+
+- Added note on hanging actively during dynamic hanging movements
+  (e.g. hanging leg raises, pull-ups), keeping passive hangs for
+  static stretching.
+- Added note on pushing actively: free shoulder blades follow the arms,
+  blades against a surface (floor press) stay pinned back and down.
+- Regrouped strength notes, dedicating one to shoulders, and moved
+  "Knees over toes" from the notes into its own list item.
+- Tightened margins, spacing and heading sizes, and removed bullets from
+  movement lists, to keep the routine on a single A4 page.
+
 ## 2026-11-23
 
 - Added breathing guidance.
